@@ -1,0 +1,1 @@
+Some JS files to learn scope
